@@ -1,2 +1,1 @@
-# thumbnail-maker-app
-My first thumbnail maker app
+wingo 1 minute prediction 
